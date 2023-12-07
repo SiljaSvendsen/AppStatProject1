@@ -1,0 +1,17 @@
+Before measuring,,,,,,,,,,,,,,,,,
+,string (cm),uncertainty (cm),pendulum (cm),uncertainty (cm),total (cm),total uncertainty (cm),hook (cm),uncertainty (cm),floor (cm),uncertainty (cm),laser (cm),uncertainty (cm),total (cm),uncertainty (cm),,,
+L,180.4,0.3,2.5,0.1,181.65,0.3041381265,3.9,0.1,23.5,0.2,210,0.1,182.6,0.2449489743,,,
+N,180.1,0.5,2.49,0.02,181.35,0.5024937811,3.85,0.05,23.4,0.1,209,0.1,182.7,0.1732050808,,,
+S,185.01,0.01,2.45,0.05,186.26,0.05099019514,3.8,0.1,23.6,0.1,210.2,0.1,182.5,0.1732050808,,,
+J,180.35,0.5,2.49,0.05,181.6,0.5024937811,3.89,0.05,23.37,0.1,210.3,0.1,182.73,0.1732050808,,,
+,,,,,mean,uncertainty on mean,chisquare,ndof,Probability,,,,mean,uncertainty on mean,chisquare,ndof,Probability
+,,,,,186.0424731,0.04979211697,392.1468754,4,0.0E+00,,,,182.6371429,0.09258200998,1.069047619,4,0.8991515357
+,,,,,,,,,,,,,,,,,
+After measuring,,,,,,,,,,,,,,,,,
+,string (cm),uncertainty (cm),,,total (cm),total uncertainty (cm),,,floor (cm),uncertainty (cm),,,total (cm),uncertainty (cm),,,
+L,180.3,0.3,,,181.55,0.3041381265,,,23.4,0.2,,,182.7,0.2449489743,,,
+N,180.2,0.5,,,181.45,0.5024937811,,,23.25,0.05,,,182.85,0.15,,,
+S,180.1,0.1,,,181.35,0.1118033989,,,23.6,0.1,,,182.5,0.1732050808,,,
+J,180.2,0.5,,,181.45,0.5024937811,,,23.42,0.1,,,182.68,0.1732050808,,,
+,,,,,mean,uncertainty on mean,chisquare,ndof,Probability,,,,mean,uncertainty on mean,chisquare,ndof,Probability
+,,,,,181.3799219,0.1006402962,0.4232437121,4,0.9805300197,,,,182.6947826,0.08846517369,2.343188406,4,0.672917428
